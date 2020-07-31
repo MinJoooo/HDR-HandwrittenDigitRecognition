@@ -3,7 +3,7 @@ Refer to 'Handwritten Digit Recognition using ML and DL(IJARCET-VOL-6-ISSUE-7-99
 
 1. To run the entire code, enter this command.
 
-  python main.py
+    python main.py
 
 
 2. If you want to save the CNN model weights after training, enter this command.
