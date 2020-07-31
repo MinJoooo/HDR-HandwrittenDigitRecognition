@@ -3,6 +3,8 @@ Refer to 'Handwritten Digit Recognition using ML and DL(IJARCET-VOL-6-ISSUE-7-99
 
 
 
+
+
 **1.** To run the entire code, enter this command.
 ```
 python main.py
