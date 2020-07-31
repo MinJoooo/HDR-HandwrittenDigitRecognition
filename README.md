@@ -3,16 +3,6 @@ Refer to 'Handwritten Digit Recognition using ML and DL(IJARCET-VOL-6-ISSUE-7-99
 
 
 
-**4.** To run the CNN code, you don't need to provide in the MNIST dataset as it'll be downloaded automatically.
-
-Just run the file as :
-
-```
-python CNN_MNIST.py
-```
-
-
-
 **1.** To run the entire code, enter this command.
 ```
 python main.py
