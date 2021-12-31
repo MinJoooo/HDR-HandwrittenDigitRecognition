@@ -1,7 +1,7 @@
-tensorflow
-keras
-scikit-learn
-numpy
+tensorflow==2.0.1
+keras==2.3.1
+scikit-learn==0.23.1
+numpy==1.17.0
 opencv-python
 PyQt5
 tkinter
