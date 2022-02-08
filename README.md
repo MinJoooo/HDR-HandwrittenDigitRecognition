@@ -26,3 +26,6 @@ python main.py --load_model 1 --save_weights cnn_weights.hdf5
 ```
 python main.py -m 1
 ```
+
+![HDR Cap4](https://user-images.githubusercontent.com/68259786/152900940-f20de78a-b2cd-415b-a088-3090b9d4d58e.JPG)
+
