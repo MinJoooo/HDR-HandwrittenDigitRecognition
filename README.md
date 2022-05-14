@@ -40,9 +40,12 @@ python main.py -m 1
 <br>
 
 # 프로젝트 실행결과
-초기 화면<br>
+#### 초기 화면<br>
 <img src="/images/image01.JPG" width="300"><br>
-숫자 그리기<br>
+<br>
+#### 숫자 그리기<br>
 <img src="/images/image02.JPG" width="300"><br>
-Predict 버튼을 누른 후에 학습하여 예측 결과를 도출<br>
+<br>
+#### Predict 버튼을 누른 후에 학습하여 예측 결과를 도출<br>
 <img src="/images/image03.JPG" width="600"><br>
+<br>
