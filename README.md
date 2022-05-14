@@ -22,13 +22,13 @@ python main.py
 ```
 <br>
 
-**2.** If you want to save the CNN model weights after training, enter this command. (훈련 후 CNN 모델의 가중치 파일을 저장하기 위한 명령어)
+**2.** If you want to save the CNN model weights after training, enter this command. (훈련 후 모델의 가중치 파일을 저장하기 위한 명령어)
 ```
 python main.py --save_model 1 --save_weights cnn_weights.hdf5
 ```  
 <br>
 
-**3.** To load the saved model weights and avoid the training time again, enter one of these commands. (CNN 모델의 가중치 파일을 불러와 훈련을 다시 하지 않게 하기 위한 명령어)
+**3.** To load the saved model weights and avoid the training time again, enter one of these commands. (모델의 가중치 파일을 불러와 훈련을 다시 하지 않게 하기 위한 명령어)
 ```
 python main.py --load_model 1 --save_weights cnn_weights.hdf5
 ```
