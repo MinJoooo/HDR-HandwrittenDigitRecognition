@@ -13,21 +13,21 @@ Refer to 'Handwritten Digit Recognition using ML and DL(IJARCET-VOL-6-ISSUE-7-99
 'Codetorial'의 코드를 참고하였습니다.<br>
 <br>
 <br>
-# Usage
-**1.** To run the entire code, enter this command.
+# Usage (사용법) 
+**1.** To run the entire code, enter this command. (전체 코드를 돌리기 위한 명령어)
 ```
 python main.py
 ```
 <br>
 
-**2.** If you want to save the CNN model weights after training, enter this command.
+**2.** If you want to save the CNN model weights after training, enter this command. (훈련 후 CNN 모델의 가중치 파일을 저장하기 위한 명령어)
 
 ```
 python main.py --save_model 1 --save_weights cnn_weights.hdf5
 ```  
 <br>
 
-**3.** To load the saved model weights and avoid the training time again, enter one of these commands.
+**3.** To load the saved model weights and avoid the training time again, enter one of these commands. (CNN 모델의 가중치 파일을 불러와 훈련을 다시 하지 않게 하기 위한 명령어)
 
 ```
 python main.py --load_model 1 --save_weights cnn_weights.hdf5
@@ -35,8 +35,10 @@ python main.py --load_model 1 --save_weights cnn_weights.hdf5
 ```
 python main.py -m 1
 ```
+
 <br>
-
-
-![HDR Cap4](https://user-images.githubusercontent.com/68259786/152900940-f20de78a-b2cd-415b-a088-3090b9d4d58e.JPG)
-
+<br>
+# Usage (사용법)<br>
+<img src="/images/image01.jpg" width="600"><br>
+<img src="/images/image02.jpg" width="600"><br>
+<img src="/images/image03.jpg" width="600"><br>
