@@ -40,6 +40,7 @@ python main.py -m 1
 <br>
 
 # 프로젝트 실행결과
+
 #### 초기 화면<br>
 <img src="/images/image01.JPG" width="300"><br>
 <br>
